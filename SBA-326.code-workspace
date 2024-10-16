@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../../SBA-326"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "testimonials-grid-section-main"
+	}
+}
